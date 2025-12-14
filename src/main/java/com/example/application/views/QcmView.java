@@ -30,7 +30,7 @@ import java.io.InputStream;
 import java.util.*;
 import java.util.stream.Collectors;
 
-@Route(value = "qcm", layout = MainLayout.class)
+@Route(value = "", layout = MainLayout.class)
 @PageTitle("QCM - Loi 2021-14")
 public class QcmView extends VerticalLayout {
 
